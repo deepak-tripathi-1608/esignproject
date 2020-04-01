@@ -1,0 +1,6 @@
+.bg{
+    border-image: url('../img/1.jpg');
+}
+.bgimg{
+    background-image: url(../img/bg.jpg)
+}
